@@ -1,1 +1,1 @@
-# bsuir-works
+# education-project
